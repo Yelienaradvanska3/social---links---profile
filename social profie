@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Links Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="profile.jpg" alt="Фото профілю" class="profile-img">
+        <h1>Твоє ім'я</h1>
+        <p>Твоє місто, країна</p>
+        <p>"Короткий опис або цитата"</p>
+        <a href="#" class="btn">GitHub</a>
+        <a href="#" class="btn">Frontend Mentor</a>
+        <a href="#" class="btn">LinkedIn</a>
+        <a href="#" class="btn">Twitter</a>
+        <a href="#" class="btn">Instagram</a>
+    </div>
+</body>
+</html>
